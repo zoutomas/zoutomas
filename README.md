@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudando front-end(Senai) e Cursando a faculdade de Sistema para Internet(faculdade FAM)
+- 🔭 Estudando front-end (Senai) e Cursando a faculdade de Sistema para Internet (faculdade FAM)
 - 🌱 TB estudando React 
 - 🥑 Vegetariano
 - 😍 Gosto de viajar conhecer países.
